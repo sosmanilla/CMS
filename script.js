@@ -1,5 +1,5 @@
 const AS_URL_BASE =
-  "https://script.google.com/macros/s/AKfycbzyd5-Cp-zpG1VUdUZfYL1AzOA1cHprhOf__507xqvs-Z6i869xi-v8PvGf6bFUoAtdlA/exec";
+  "https://script.google.com/macros/s/AKfycbyxY-u5R3KR7gB8k8DrqGm18wFB0WkXTxak-liAXGnxhQooyjdfRvn1z9E6Ix8pzAZt/exec";
 
 var url = document.location.href;
 var k = url.substr(url.lastIndexOf("k=") + 2);
